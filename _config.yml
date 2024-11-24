@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "junfeng Lu"
-title_separator          : "-"
+title                    : "junfeng Lu(卢俊峰)'s Homepage"
+#title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://junfenglu1.github.io/ # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -25,7 +25,7 @@ author:
   name             : "Junfeng Lu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "SiChuan"
+  location         : "Si Chuan"
   employer         : "Red Star University"
   uri              : # URL
   email            : "ljunfmax@163.com" 
