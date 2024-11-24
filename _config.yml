@@ -12,7 +12,7 @@ title                    : "junfeng Lu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://junfenglu1.github.io/ # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Junfeng Lu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "SiChuan"
   employer         : "Red Star University"
   uri              : # URL
   email            : "ljunfmax@163.com" 
@@ -50,7 +50,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         :  Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
