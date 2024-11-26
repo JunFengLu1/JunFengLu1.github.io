@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Junfeng Lu (卢俊峰)
-Office Address: XXXXX
-School of Mathematics
-University of Sichuan
-XXXX
-Office Phone: XXXX
-Email: XXX"
+title: |
+  "Junfeng Lu (卢俊峰)
+  Office Address: XXXXX
+  School of Mathematics
+  University of Sichuan
+  Office Phone: XXXX
+  Email: XXX"
 author_profile: true
 redirect_from: 
   - /about/
