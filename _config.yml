@@ -287,7 +287,7 @@ defaults:
   # _researchs
   - scope:
       path: ""
-      type: research
+      type: researchs
     values:
       layout: research
       author_profile: true
