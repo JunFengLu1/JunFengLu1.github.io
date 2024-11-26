@@ -2,14 +2,11 @@
 title: "Research Topic 1"
 collection: researchs
 category: research_projects
-permalink: /research/2024-11-26-research-topic-1
-excerpt: 'This research focuses on the impact of AI in modern education.'
+permalink: /researchs/2024-11-26-research-topic-1
 date: 2024-11-26
-venue: 'Conference on AI Research'
-researchurl: 'http://academicpages.github.io/files/research1.pdf'
-slidesurl: 'http://academicpages.github.io/files/research-slides1.pdf'
-citation: 'Your Name, You. (2024). "Research Topic 1." <i>Conference on AI Research</i>. 1(1).'
+excerpt: 'This research focuses on the impact of AI in modern education.'
 ---
+
 ## 矩阵和行列式
 
 ### 基础格式
