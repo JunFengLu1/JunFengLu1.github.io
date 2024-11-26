@@ -2,7 +2,7 @@
 title: "Research Topic 1"
 collection: research
 category: research_projects
-permalink: /research/2024-11-26-research-topic-1
+permalink: /researchs/2024-11-26-research-topic-1
 excerpt: 'This research focuses on the impact of AI in modern education.'
 date: 2024-11-26
 venue: 'Conference on AI Research'
