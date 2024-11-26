@@ -1,15 +1,34 @@
 ---
-layout: default
+layout: archive
 title: "Research Projects"
 permalink: /researchs/
+author_profile: true
 ---
-<h1>Research Projects</h1>
 
-<ul>
-  {% for research in site.researchs %}
-    <li>
-      <a href="{{ research.url }}">{{ research.title }}</a> - {{ research.date | date: "%B %d, %Y" }}
-      <p>{{ research.excerpt }}</p>
-    </li>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also explore my research projects on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+<!-- 新的样式渲染，如果为研究定义了分类 -->
+{% if site.research_category %}
+  {% for category in site.research_category %}
+    {% assign title_shown = false %}
+    {% for post in site.researchs reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
   {% endfor %}
-</ul>
+{% else %}
+  <!-- 如果没有定义分类，直接显示研究列表 -->
+  {% for post in site.researchs reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
