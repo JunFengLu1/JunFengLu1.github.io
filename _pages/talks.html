@@ -5,12 +5,33 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>talks</title>
+</head>
+<body><h1 id='talks-and-presentations'>Talks and Presentations</h1>
+<h2 id='upcoming-talks'>Upcoming Talks</h2>
+<ul>
+<li><strong>&quot;The Future of Artificial Intelligence&quot;</strong><br/><em>Event</em>: International Conference on AI and Data Science<br/><em>Date</em>: December 10, 2024<br/><em>Location</em>: New York, USA<br/><em>Description</em>: Exploring the latest advancements in AI and their implications for the future.<br/><a href='https://example.com/event-details'>Event Details</a></li>
+<li><strong>&quot;Deep Learning in Healthcare&quot;</strong><br/><em>Event</em>: Global Health Summit<br/><em>Date</em>: January 20, 2025<br/><em>Location</em>: London, UK<br/><em>Description</em>: How deep learning is transforming healthcare diagnostics and treatment planning.<br/><a href='https://example.com/global-health'>Conference Website</a></li>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+</ul>
+<hr />
+<h2 id='past-talks'>Past Talks</h2>
+<ul>
+<li><strong>&quot;Machine Learning for Everyone&quot;</strong><br/><em>Event</em>: Local Tech Meetup<br/><em>Date</em>: November 5, 2023<br/><em>Location</em>: San Francisco, USA<br/><em>Description</em>: An introductory session on the basics of machine learning, aimed at beginners.</li>
+<li><strong>&quot;Data Science in Action&quot;</strong><br/><em>Event</em>: DataCon 2023<br/><em>Date</em>: October 15, 2023<br/><em>Location</em>: Singapore<br/><em>Description</em>: Showcasing real-world applications of data science in business and research.<br/><a href='https://example.com/slides-datacon2023'>Slides</a></li>
+<li><strong>&quot;Ethics in AI&quot;</strong><br/><em>Event</em>: Ethics in Technology Forum<br/><em>Date</em>: September 1, 2023<br/><em>Location</em>: Online<br/><em>Description</em>: Discussing the ethical implications of artificial intelligence in modern society.<br/><a href='https://example.com/recording-ethics-ai'>Recording</a></li>
 
-{% endif %}
+</ul>
+<hr />
+<h2 id='additional-resources'>Additional Resources</h2>
+<ul>
+<li><a href='https://example.com/all-talks'>Full List of Talks</a>  </li>
+<li><a href='https://example.com/contact'>Contact for Speaking Engagements</a></li>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+</ul>
+</body>
+</html>
