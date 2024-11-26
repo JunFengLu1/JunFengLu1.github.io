@@ -1,18 +1,17 @@
 ---
 permalink: /
-title: |
-  "Junfeng Lu (卢俊峰)
-  Office Address: XXXXX
-  School of Mathematics
-  University of Sichuan
-  Office Phone: XXXX
-  Email: XXX"
+title: 
+  "Junfeng Lu (卢俊峰)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Office Address: XXXXX
+  School of Mathematics
+  University of Sichuan
+  Office Phone: XXXX
+  Email: XXX
 I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
