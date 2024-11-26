@@ -2,10 +2,10 @@
 title: "Research Topic 1"
 collection: researchs
 category: research_projects
-permalink: /researchs/2024-11-26-research-topic-1
 date: 2024-11-26
 excerpt: 'This research focuses on the impact of AI in modern education.'
 ---
+
 
 ## 矩阵和行列式
 
