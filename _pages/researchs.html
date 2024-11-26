@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Research Projects"
+permalink: /researchs/
+---
+<h1>Research Projects</h1>
+
+<ul>
+  {% for research in site.researchs %}
+    <li>
+      <a href="{{ research.url }}">{{ research.title }}</a> - {{ research.date | date: "%B %d, %Y" }}
+      <p>{{ research.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
