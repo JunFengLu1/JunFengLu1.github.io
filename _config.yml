@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "junfeng Lu(卢俊峰)'s Homepage"
+title                    : "Junfeng Lu(卢俊峰)'s Homepage"
 #title_separator          : "-"
-name                     : &name "Your Name"
+name                     :  "Junfeng Lu"#&name "Your Name"
 description              : &description "personal description"
 url                      : https://junfenglu1.github.io/ # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,8 +24,8 @@ author:
   avatar           : "1.png"
   name             : "Junfeng Lu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student, SCU, MATH, "
-  location         : "Si Chuan"
+  bio              : "PhD Student, SCU, MATH"
+  location         : "Sichuan"
   employer         : "Sichuan University"
   uri              : # URL
   email            : "ljunfmax@163.com" 
