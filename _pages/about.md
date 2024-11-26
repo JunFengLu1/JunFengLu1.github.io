@@ -15,7 +15,7 @@ University of Sichuan
 
 I'm a third year undergraduate student from [Sichuan University](https://en.scu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://www.XXX.com/), Sichuan University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Sichuan University.
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://www.XXX.com/), Sichuan University. I was advised by [Prof. XX](https://XXX.XXX.edu.cn/) from [School of Computer Science](https://cs.XXX.edu.cn/), Sichuan University.
 
 
 
