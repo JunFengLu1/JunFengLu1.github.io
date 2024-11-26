@@ -4,7 +4,7 @@ title: "Junfeng Lu (卢俊峰)
 Office Address: XXXXX
 School of Mathematics
 University of Sichuan
-206 Church St. SE Minneapolis, MN 55455
+XXXX
 Office Phone: XXXX
 Email: XXX"
 author_profile: true
