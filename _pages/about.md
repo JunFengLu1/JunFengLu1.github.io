@@ -1,6 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Junfeng Lu (卢俊峰)
+Office Address: XXXXX
+School of Mathematics
+University of Sichuan
+206 Church St. SE Minneapolis, MN 55455
+Office Phone: XXXX
+Email: XXX"
 author_profile: true
 redirect_from: 
   - /about/
